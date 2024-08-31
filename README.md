@@ -21,8 +21,7 @@ This is a Python implementation of a classic Breakout-style game using the Turtl
 ## Getting Started
 1. Clone this repository.
 2. Create virtual environment.
-3. Install [requirements](requirements.txt).
-4. Run [script](main.py) in Python. 
+3. Run [script](main.py) in Python. 
 
 ## How to Play
 1. Use the left and right arrow keys to move the paddle.
